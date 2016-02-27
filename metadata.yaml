@@ -1,0 +1,37 @@
+_repo: The-Happy-Prince-and-Other-Tales_902
+covers:
+- cover_type: archival
+  image_path: 902/902-h/images/covers.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Wilde, Oscar
+    alias: Wilde, Oscar Fingal O'Flahertie Wills
+    birthdate: 1854
+    deathdate: 1900
+    gutenberg_agent_id: '111'
+    url: http://www.gutenberg.org/2009/agents/111
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Oscar_Wilde
+    - http://fr.wikipedia.org/wiki/Oscar_Wilde
+description: ''
+gutenberg_bookshelf: Children's Literature
+gutenberg_issued: '1997-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '902'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairy tales'
+- !lcc 'PZ'
+- !lcsh 'Children''s stories, English'
+- !lcsh 'Short stories, English'
+- !lcc 'PR'
+tableOfContents: The happy prince -- The nightingale and the rose -- The selfish giant
+  -- The devoted friend -- The remarkable rocket.
+title: The Happy Prince, and Other Tales
+url: http://www.gutenberg.org/ebooks/902
