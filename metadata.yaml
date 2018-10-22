@@ -1,5 +1,5 @@
 _repo: The-Happy-Prince-and-Other-Tales_902
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: archival
   image_path: 902-h/images/coverb.jpg
@@ -32,6 +32,7 @@ subjects:
 - !lcsh 'Children''s stories, English'
 - !lcsh 'Short stories, English'
 - !lcc 'PR'
+- GITenberg
 tableOfContents: The happy prince -- The nightingale and the rose -- The selfish giant
   -- The devoted friend -- The remarkable rocket.
 title: The Happy Prince, and Other Tales
